@@ -22,7 +22,19 @@
          }
       },
       {
-         "has_raw_value": 4524.0,
+         "has_raw_value": "09-DEC-17 11.15.52.119000000 PM",
+         "has_characteristic": {
+            "name": "add_date"
+         }
+      },
+      {
+         "has_raw_value": "05-JAN-18 12.58.38.000000000 PM",
+         "has_characteristic": {
+            "name": "mod_date"
+         }
+      },
+      {
+         "has_raw_value": 4524,
          "has_characteristic": {
             "name": "ecosystem_path_id"
          }
@@ -88,7 +100,7 @@
          }
       },
       {
-         "has_raw_value": 122.3597222,
+         "has_raw_value": 122.35972220000001,
          "has_characteristic": {
             "name": "longitude"
          }
@@ -106,13 +118,13 @@
          }
       },
       {
-         "has_raw_value": 2014.0,
+         "has_raw_value": 2014,
          "has_characteristic": {
             "name": "sample_collection_year"
          }
       },
       {
-         "has_raw_value": 6.0,
+         "has_raw_value": 6,
          "has_characteristic": {
             "name": "sample_collection_month"
          }
@@ -147,7 +159,19 @@
          }
       },
       {
-         "has_raw_value": 3505.0,
+         "has_raw_value": "09-DEC-17 11.36.30.369000000 PM",
+         "has_characteristic": {
+            "name": "add_date"
+         }
+      },
+      {
+         "has_raw_value": "05-JAN-18 12.54.38.000000000 PM",
+         "has_characteristic": {
+            "name": "mod_date"
+         }
+      },
+      {
+         "has_raw_value": 3505,
          "has_characteristic": {
             "name": "ecosystem_path_id"
          }
@@ -225,13 +249,13 @@
          }
       },
       {
-         "has_raw_value": 2014.0,
+         "has_raw_value": 2014,
          "has_characteristic": {
             "name": "sample_collection_year"
          }
       },
       {
-         "has_raw_value": 7.0,
+         "has_raw_value": 7,
          "has_characteristic": {
             "name": "sample_collection_month"
          }
@@ -260,7 +284,19 @@
          }
       },
       {
-         "has_raw_value": 3505.0,
+         "has_raw_value": "09-DEC-17 11.36.34.360000000 PM",
+         "has_characteristic": {
+            "name": "add_date"
+         }
+      },
+      {
+         "has_raw_value": "05-JAN-18 12.54.43.000000000 PM",
+         "has_characteristic": {
+            "name": "mod_date"
+         }
+      },
+      {
+         "has_raw_value": 3505,
          "has_characteristic": {
             "name": "ecosystem_path_id"
          }
@@ -338,13 +374,13 @@
          }
       },
       {
-         "has_raw_value": 2014.0,
+         "has_raw_value": 2014,
          "has_characteristic": {
             "name": "sample_collection_year"
          }
       },
       {
-         "has_raw_value": 7.0,
+         "has_raw_value": 7,
          "has_characteristic": {
             "name": "sample_collection_month"
          }
@@ -373,7 +409,19 @@
          }
       },
       {
-         "has_raw_value": 3505.0,
+         "has_raw_value": "09-DEC-17 11.36.38.315000000 PM",
+         "has_characteristic": {
+            "name": "add_date"
+         }
+      },
+      {
+         "has_raw_value": "05-JAN-18 12.54.43.000000000 PM",
+         "has_characteristic": {
+            "name": "mod_date"
+         }
+      },
+      {
+         "has_raw_value": 3505,
          "has_characteristic": {
             "name": "ecosystem_path_id"
          }
@@ -451,13 +499,13 @@
          }
       },
       {
-         "has_raw_value": 2014.0,
+         "has_raw_value": 2014,
          "has_characteristic": {
             "name": "sample_collection_year"
          }
       },
       {
-         "has_raw_value": 7.0,
+         "has_raw_value": 7,
          "has_characteristic": {
             "name": "sample_collection_month"
          }
@@ -486,7 +534,19 @@
          }
       },
       {
-         "has_raw_value": 3505.0,
+         "has_raw_value": "09-DEC-17 11.37.10.939000000 PM",
+         "has_characteristic": {
+            "name": "add_date"
+         }
+      },
+      {
+         "has_raw_value": "05-JAN-18 12.54.43.000000000 PM",
+         "has_characteristic": {
+            "name": "mod_date"
+         }
+      },
+      {
+         "has_raw_value": 3505,
          "has_characteristic": {
             "name": "ecosystem_path_id"
          }
@@ -564,13 +624,13 @@
          }
       },
       {
-         "has_raw_value": 2015.0,
+         "has_raw_value": 2015,
          "has_characteristic": {
             "name": "sample_collection_year"
          }
       },
       {
-         "has_raw_value": 8.0,
+         "has_raw_value": 8,
          "has_characteristic": {
             "name": "sample_collection_month"
          }
