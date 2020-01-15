@@ -9,7 +9,7 @@ After the environment is created, run the command `source <environment name>/bin
 Once in the environment, use `pip` to install libraries (e.g., `pip install pandas`). Once all the libraries have been installed you can export a list of them using the `pip freeze` command. Typically, the list is saved to a file named `requirements.txt`.  
 e.g., `pip freeze > requirements.txt`  
 
-To load a list of dependencies, use the `pip instal -r` command.  
+To load a list of dependencies, use the `pip install -r` command.  
 e.g., `pip install -r requirements.txt`
 
 You exit the environment by executing the command `deactivate` in the terminal.
